@@ -36,34 +36,35 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // Kalau gapunya di biarin aja!, atau ga di kasih tanda '-'
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'Gadak :v' //Instagram mu
-global.sgh = 'https://github.com/V11bot' //Github mu
-global.sgc = 'https://chat.whatsapp.com/HpxyS6b45SoGIKG7LHddiM' //Group WhatsApp mu
-global.sdc = 'https://wa.me/6283183321692' //Discord Mu
+global.sig = 'bit.ly/igNYAsangLORD' //Instagram mu
+global.sgh = 'https://github.com/devbotmail' //Github mu
+global.sgc = 'https://chat.whatsapp.com/L2BJnBNPF0y7srL2IM5sBC' //Group WhatsApp mu
+global.sdc = 'https://wa.me/6289688069444' //Discord Mu
 global.snh = 'https://nhentai.net/g/365296/' //Make ini ana gausah di ganti.
 
 /*⫘⫘⫘⫘ALL PAYMENT⫘⫘⫘⫘⫘*/
-global.pdana = '083183321692' //Dana
+global.pdana = 'https://wa.me/p/4996885007104729/6289688069444' //Dana
 global.povo = '-' //Ovo
 global.pgopay = '-' //Gopay
-global.ppulsa = '083183321692' //Pulsa 
-global.ppulsa2 = '-' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
-global.psaweria = '-' //Saweria
+global.ppulsa = '089688069444 perdana tri' //Pulsa 
+global.ppulsa2 = '085228906300 telkomsel punya bapak ku' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
+global.psaweria = 'https://saweria.co/bangdevs' //Saweria
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '6289513431273' //Nomor Bot mu
-global.nomorown = '6283183321692' //Nomormu
+global.nomorbot = '6289518487462' //Nomor Bot mu
+global.nomorown = '6289688069444' //Nomormu
 global.namebot = 'ʙᴏᴛ ᴇʟᴀɪɴᴀ ʙʏ ꜰᴀɴɢᴢ' //Nama bot mu
-global.nameown = 'Ez Ganz' //Nama mu
+global.nameown = 'Lord Nya Kita Semua Untuk Bersama Arya' //Nama mu
 
 
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6289688069444'], //Owner1
+  ['6283183321692'], //Owner1
   ['6289518487462'], //Owner2
   ['0'], //Owner3
-  ['6283183321692', 'Owner-Utama ᴇʟᴀɪɴᴀ ! 🥶', true] //Ini buat kamu!
-  // [number, dia creator/owner?, dia developer?]
+  ['6283879175089'], //OwnerTambahan
+  ['6289688069444', 'Owner-Utama/Developer/SangModetartor ᴇʟᴀɪɴᴀ ! 🥶', true] //Ini buat kamu!
+  // [number, dia creator/owner?, dia developer?, dia sang moderator?]
 ] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
